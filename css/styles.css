@@ -1,0 +1,30 @@
+body {
+  background-color: #E6E6FA;
+  font-family: Papyrus, fantasy;
+}
+
+h1 {
+  font-family: Copperplate, Papyrus, fantasy;
+  font-weight: 300;
+  text-shadow: 0 0 2px #181818;
+  color: #645CAA
+}
+
+h3 {
+  font-family: Copperplate, Papyrus, fantasy;
+  color: #A084CA
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%
+}
+
+th {
+  font-family: Copperplate, Papyrus, fantasy;
+  border-bottom: 2px solid grey;
+  border-radius: 10px;
+}
